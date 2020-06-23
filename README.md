@@ -1,68 +1,109 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Jogo da velha com React
 
-## Available Scripts
+> Para ver a aplicação, <a href="https://joaovictorpsantos.github.io/react-tic-tac-toe/">clique aqui</a>.
 
-In the project directory, you can run:
+<a href="https://github.com/joaovictorpsantos">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+</a>
 
-### `yarn start`
+<a href="#">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/next-level-week-clone?color=7159c1&style=flat-square">
+</a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<a href="https://github.com/joaovictorpsantos/next-level-week-clone/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/react-tic-tac-toe?color=7159c1&style=flat-square">
+</a>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+<a href="https://github.com/joaovictorpsantos/next-level-week-clone/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/react-tic-tac-toe?color=7159c1&style=flat-square">
+</a>
 
-### `yarn test`
+<a href="#">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/react-tic-tac-toe?color=7159c1&style=flat-square">
+</a>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://github.com/joaovictorpsantos/next-level-week-clone/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/react-tic-tac-toe?color=7159c1&style=flat-square">
+</a>
 
-### `yarn build`
+<br/><br/>
+<div style="display:flex">
+<img src="assets_readme/example_app.gif">
+</div>
+</h2>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<blockquote align="center">
+  Esse projeto é open-source, contribua você também :D
+</blockquote>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<hr/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💡 Sobre o projeto:
 
-### `yarn eject`
+Desenvolvi esse projeto com o intuito de estudar mais sobre os fundamentos do React para poder entender bem as bases para poder construir mais projetos de forma consciente e com boas práticas. Esse projeto é bom base no tutorial da <a href="https://pt-br.reactjs.org/tutorial/tutorial.html">documentação oficial do React</a>. Para testar o projeto, <a href="https://joaovictorpsantos.github.io/react-tic-tac-toe/">clique aqui</a>.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## 🔥 O que aprendemos?
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Através dessa aplicação pratiquei mais sobre:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- Criação de componentes no formato de classes
+- Criação de componentes no formato de funções
+- Propriedades
+- Estado
+- Imutabilidade
+- Boas práticas
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## ⚙️ Techs:
 
-## Learn More
+- React
+- JavaScript
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## ⛏ Ferramentas:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Visual Studo Code](https://code.visualstudio.com/download)
 
-### Code Splitting
+## 🏁 Executar esse projeto:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Para executar esse projeto em sua máquina,
+De o clone no repositório:
 
-### Analyzing the Bundle Size
+```bash
+$ git clone https://github.com/joaovictorpsantos/react-tic-tac-toe.git
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+Execute esse comando na raiz do projeto para baixar as dependências:
 
-### Making a Progressive Web App
+```bash
+yarn
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Logo depois para executar execute:
 
-### Advanced Configuration
+```bash
+yarn start
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+<br/>
 
-### Deployment
+<h4 align="center">
+  Vamos compartilhar conhecimento e crescer juntos!!!
+</h4>
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+<br/>
 
-### `yarn build` fails to minify
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<h3 align="center">
+Autor: <a alt="João Victor Pereira Santos" href="https://github.com/joaovictorpsantos">João Victor Pereira Santos</a>
+</h3>
+
+<p align="center">
+
+  <a alt="João Victor Pereira Santos Linkedin" href="https://www.linkedin.com/in/joao-victor-pereira-santos/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Victor%20Pereira%20Santos-blue?logo=linkedin"/></a>
+  <a alt="João Victor Pereira Santos GitHub" href="https://github.com/joaovictorpsantos">
+  <img src="https://img.shields.io/badge/GitHub-joaovictorpsantos-lightgrey?logo=github"/></a>
+ <a alt="João Victor Pereira Santos Twitter" href="https://twitter.com/_joaovictorps">
+  <img src="https://img.shields.io/badge/Twitter-__joaovictorps-blue?logo=twitter"/></a>
+
+</p>
